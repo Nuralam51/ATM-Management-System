@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Education/Java Swing/Binary Care/jasper/jaco-mp3-player-0.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NuR/Downloads/JTattoo-1.6.10.jar"/>
+	<classpathentry kind="lib" path="D:/Education/Java Swing/Binary Care/jasper/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Education/Java Swing/Binary Care/jasper/javax.mail.jar"/>
+	<classpathentry kind="lib" path="D:/Education/Java Swing/Binary Care/jasper/seaglasslookandfeel-0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
